@@ -1,2 +1,2 @@
 # noticias
-nightalone.github.io](https://nightalone.github.io/noticias/
+https://nightalone.github.io/noticias/
